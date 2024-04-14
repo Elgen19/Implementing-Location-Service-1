@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Implementing Location Service 1</string>
+    <string name="location_text">Latitude: %1\$f, Longitude: %2\$f</string>
+    <string name="your_location">Your Location:</string>
+    <string name="location_information">Location Information</string>
+
+
+</resources>
